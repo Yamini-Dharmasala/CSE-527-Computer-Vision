@@ -1,1 +1,1 @@
-# CSE-527-Computer-Vision
+# CSE-527-Intro-to-Computer-Vision
